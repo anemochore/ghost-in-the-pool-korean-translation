@@ -1,29 +1,27 @@
-Ghost in the pool ÇÑ±¹¾î ¹ø¿ª
-1030(v1.0.2.8) ±âÁØ
-
-by anemochore
+# [Ghost in the pool](https://store.steampowered.com/app/919330/Ghost_in_the_pool/) í•œêµ­ì–´ ë²ˆì—­ íŒ¨ì¹˜ 
+/ ì—ì…‹ ë‚´ ë²„ì „ 1030(ì¸ê²Œìž„ í‘œì‹œ v1.0.2.8) ê¸°ì¤€
 
 
-# ¼³¸í
-- uabe¸¦ ÀÌ¿ëÇØ ÅØ½ºÆ®¸¦ ÃßÃâÇØ¼­ ±¸±Û ½ÃÆ®¿¡¼­ ¹ø¿ªÇßÀ½. https://docs.google.com/spreadsheets/d/1BpQvjyKa1CYa6NsDHy8ZjCLkYoLZNL_ZjhtzTcDA0Gs
-- Áß±¹¾îÀÇ ±â°è¹ø¿ª¿¡ ±â¹ÝÇß°í °ø½Ä ¿µ¾î ¹ø¿ªÀ» Âü°íÇßÀ½.
+## ì„¤ëª…
+- uabeë¥¼ ì´ìš©í•´ í…ìŠ¤íŠ¸ë¥¼ ì¶”ì¶œí•´ì„œ êµ¬ê¸€ ì‹œíŠ¸ì—ì„œ ë²ˆì—­í–ˆìŒ. https://docs.google.com/spreadsheets/d/1BpQvjyKa1CYa6NsDHy8ZjCLkYoLZNL_ZjhtzTcDA0Gs
+- ì¤‘êµ­ì–´ì˜ ê¸°ê³„ë²ˆì—­ì— ê¸°ë°˜í–ˆê³  ê³µì‹ ì˜ì–´ ë²ˆì—­ì„ ì°¸ê³ í–ˆìŒ.
 
 
-# ¼³Ä¡
-1. Å½»ö±â·Î gitp °ÔÀÓ Æú´õ¸¦ ¿¬´Ù. ½ºÆÀ ¶óÀÌºê·¯¸®¿¡¼­ ÇØ´ç °ÔÀÓÀ» ¿ìÅ¬¸¯ÇÏ°í '°ü¸®>·ÎÄÃ ÆÄÀÏ º¸±â' ¼±ÅÃ.
+## ì„¤ì¹˜
+1. íƒìƒ‰ê¸°ë¡œ gitp ê²Œìž„ í´ë”ë¥¼ ì—°ë‹¤. ìŠ¤íŒ€ ë¼ì´ë¸ŒëŸ¬ë¦¬ì—ì„œ í•´ë‹¹ ê²Œìž„ì„ ìš°í´ë¦­í•˜ê³  'ê´€ë¦¬>ë¡œì»¬ íŒŒì¼ ë³´ê¸°' ì„ íƒ.
 
-2. ÀÌ ÆäÀÌÁö¿¡¼­ ÇÑ±¹¾î ÆÐÄ¡ ÆÄÀÏÀ» ¹Þ´Â´Ù. 
-3. °ÔÀÓ Æú´õ·Î ¿Å±â°í ÇöÀç Æú´õ¿¡ ¾ÐÃàÀ» Ç¬´Ù. ÇöÀç Æú´õ¿¡ 71e.emip, 197e.emip, _kor_install.bat ¼¼ °³°¡ º¸¿©¾ß ÇÔ.
+2. ì´ íŽ˜ì´ì§€ì—ì„œ í•œêµ­ì–´ íŒ¨ì¹˜ íŒŒì¼ì„ ë°›ëŠ”ë‹¤. ìš°ìƒë‹¨ì— ì´ˆë¡ìƒ‰ [Code] ë²„íŠ¼ ëˆ„ë¥´ê³  'Download ZIP' ì„ íƒ.
+3. ë°›ì€ ì••ì¶• íŒŒì¼ì„ ê²Œìž„ í´ë”ë¡œ ì˜®ê¸°ê³  í˜„ìž¬ í´ë”ì— ì••ì¶•ì„ í‘¼ë‹¤. í˜„ìž¬ í´ë”ì— 71e.emip, 197e.emip, _kor_install.bat ì„¸ ê°œê°€ ë³´ì—¬ì•¼ í•¨.
 
-4. uabe¸¦ ¹Þ´Â´Ù. 64ºñÆ®·Î ¹ÞÀÚ. https://github.com/DerPopo/UABE/releases/tag/2.2stabled
-5. ¹ÞÀº ¾ÐÃà ÆÄÀÏÀ» °ÔÀÓ Æú´õ·Î ¿Å±â°í ¾Ë¾Æ¼­ ¾ÐÃàÀ» Ç¬´Ù. ±âº»ÀûÀ¸·Î 64bit¶ó´Â Æú´õ¿¡ ¾ÐÃàÀÌ Ç®¸± °Å.
+4. uabeë¥¼ ë°›ëŠ”ë‹¤. 64ë¹„íŠ¸ë¡œ ë°›ìž. https://github.com/DerPopo/UABE/releases/tag/2.2stabled
+5. ë°›ì€ ì••ì¶• íŒŒì¼ì„ ê²Œìž„ í´ë”ë¡œ ì˜®ê¸°ê³  ì•Œì•„ì„œ ì••ì¶•ì„ í‘¼ë‹¤. ê¸°ë³¸ì ìœ¼ë¡œ 64bitë¼ëŠ” í´ë”ì— ì••ì¶•ì´ í’€ë¦´ ê±°.
 
-6. kor_install.bat ½ÇÇà. 
-7. ÀÌÁ¦ Ghost_in_the_pool_Data Æú´õ ¾ÈÀÇ data.unity3d ÆÄÀÏÀÌ 131¸Þ°¡¿¡¼­ 373¸Þ°¡·Î ¹Ù²î¾î ÀÖÀ¸¸é Á¦´ë·Î ÆÐÄ¡µÈ °Å.
+6. kor_install.bat ì‹¤í–‰. 
+7. ì´ì œ Ghost_in_the_pool_Data í´ë” ì•ˆì˜ data.unity3d íŒŒì¼ì´ 131ë©”ê°€ì—ì„œ 373ë©”ê°€ë¡œ ë°”ë€Œì–´ ìžˆìœ¼ë©´ ì œëŒ€ë¡œ íŒ¨ì¹˜ëœ ê±°.
 
-8. °ÔÀÓÀ» ½ÇÇàÇÏ°í setting¿¡¼­ language¸¦ Áß±¹¾î·Î ¹Ù²Û´Ù.
+8. ê²Œìž„ì„ ì‹¤í–‰í•˜ê³  settingì—ì„œ languageë¥¼ ì¤‘êµ­ì–´ë¡œ ë°”ê¾¼ë‹¤.
 
 
-# È÷½ºÅä¸®
-2021-1-15 ¹ø¿ª ¿Ï·á ¹× ÃÖÃÊ °ø°³
-2021-1-13 ¹ø¿ª ½ÃÀÛ
+## ížˆìŠ¤í† ë¦¬
+- 2021-1-15 ë²ˆì—­ ì™„ë£Œ ë° ìµœì´ˆ ê³µê°œ
+- 2021-1-13 ë²ˆì—­ ì‹œìž‘
